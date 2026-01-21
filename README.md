@@ -1,4 +1,4 @@
-\### Weerdata: Noordoostpolder
+### Weerdata: Noordoostpolder
 
 ![afbeelding](./pscreen.jpg)
 
@@ -6,15 +6,15 @@ Quickguide:
 
 
 
-\- Zet de bestanden in een projectmap
+- Zet de bestanden in een projectmap
 
-\- Open de projectmap in VS Code en zorgt dat de venv geactiveerd is.
+- Open de projectmap in VS Code en zorgt dat de venv geactiveerd is.
 
-\- Installeer de dependecies uit het requirements tekstbestand via de terminal.
+- Installeer de dependecies uit het requirements tekstbestand via de terminal.
 
-\- Run de verzamelen-notebook.
+- Run de verzamelen-notebook.
 
-\- Run de analyse-notebook.
+- Run de analyse-notebook.
 
 
 
