@@ -1,8 +1,8 @@
 ### Weerdata: Noordoostpolder
 
 In dit eindproject ga ik weerdata gebruiken om specifiek voor de dorpen in de Noordoostpolder een aantal vragen te beantwoorden.<br>
-Deze worden beantwoord door gebruik te maken van 6 visuals in de analyse notebook.<br>
-De weerdata wordt uit 2 verschillende API opgehaald: OpenMeteo en Met Norway.<br>
+Deze vragen worden beantwoord door gebruik te maken van 6 visuals in de analyse notebook.<br>
+De weerdata wordt uit 2 verschillende APIs opgehaald: OpenMeteo en Met Norway.<br>
 Op het laatst kan er een pdf-rapport gegeneeerd worden welke automatisch wordt opgeslagen.
 
 ![afbeelding](./pscreen.jpg)
