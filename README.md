@@ -16,5 +16,5 @@
 - Run de analyse-notebook.
 
 
-Klaar! Het weer-rapport met analyse staat in de submap \*rapport\* in de projectmap.
+Klaar! Het weer-rapport met analyse staat in de submap *rapport* in de projectmap.
 
